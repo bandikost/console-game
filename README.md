@@ -34,4 +34,4 @@ await battle.Start();
   .NET Core 5.0 и выше<br>
 
 📄 Лицензия<br>
-  Проект распространяется под лицензией MIT License.
+  Проект распространяется под лицензией <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt">MIT License.</a>
