@@ -29,7 +29,7 @@
 Characters stranger = new Person2();
 Battle battle = new Battle(stranger, new Person1()); 
 await battle.Start();
-//
+```
 📋 Требования
 .NET Core 5.0 и выше
 📄 Лицензия
